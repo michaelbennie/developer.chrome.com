@@ -1,6 +1,7 @@
 - title: i18n.docs.android.customtabs
   sections:
     - url: /docs/android/custom-tabs
+    - url: /docs/android/custom-tabs/browser-support
     - title: i18n.docs.android.guides
       sections:
         - url: /docs/android/custom-tabs/guide-get-started
@@ -14,7 +15,6 @@
         - url: /docs/android/custom-tabs/best-practices
         - url: /docs/android/custom-tabs/headers
         - url: /docs/android/custom-tabs/low-level-api
-    - url: /docs/android/custom-tabs/browser-support
 - title: i18n.docs.android.trustedwebactivity
   sections:
     - url: /docs/android/trusted-web-activity
