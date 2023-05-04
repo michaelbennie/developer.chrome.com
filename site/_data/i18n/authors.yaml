@@ -1399,3 +1399,8 @@ sebastianbenz:
     en: 'Sebastian Benz'
   description:
     en: 'Sebastian is a Developer Relations Engineer'
+patrickkettner:
+  title:
+    en: 'Patrick Kettner'
+  description:
+    en: 'Developer Advocate for Chrome Extensions'
